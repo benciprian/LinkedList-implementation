@@ -48,7 +48,7 @@ public class Main {
         listA.set(2, "Y");
         System.out.println("Lista inlantuita dupa modificare : " + listA);
 
-
+        //bucla for each
         for (String tmp : listA) {
             System.out.println(tmp);
         }
